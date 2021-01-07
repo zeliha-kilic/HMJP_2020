@@ -1,8 +1,8 @@
-===========================================================================
+====================================
 Matlab software implementation for:
 Generalizing HMMs to Continuous Time for Fast Kinetics: Hidden Markov Jump Processes
-Biophysical Journal (2020)
-===========================================================================
+Biophysical Journal (2021)
+=====================================
 Copyright (C) 2020, ZK, and SP
 
 This software package includes several Matlab scripts and auxiliary
